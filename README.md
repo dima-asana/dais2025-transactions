@@ -2,6 +2,8 @@ Content for [DAIS 2025 talk on transaction conflicts in Databricks](https://www.
 
 [Slides](https://docs.google.com/presentation/d/1wFMKUhpWEBCRbQjWgupUqO2otELlfaSU)
 
+Questions?  Email dimakamalov@asana.com
+
 ## Behavior for concurrent transactions
 
 In the subfolders numbered 1-12, you can look at what happens when two
